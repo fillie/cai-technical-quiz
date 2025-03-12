@@ -1,0 +1,1 @@
+# culture-ai-technical-quiz
