@@ -41,7 +41,7 @@ When base64 decoded, we can see that it is a string of:
 
 **This string is JSON.** We can also see that **`lng` is equal to: 53.3263`**.
 
-// STILL TO DO LAST ONE
+The first thing that came to mind as to why data might be both **JSON, and then base64 encoded is a JWT**, as the standard expects.
 
 #### Question 3
 
