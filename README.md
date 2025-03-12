@@ -52,7 +52,7 @@ A few methods spring to mind in regards to fixing this going forwards. Three to 
 - **Proper Testing Pipeline:** All changes deployed must first be ran through a test suite which tests at least critical functionality before any broken releases making it to any environment.
 - **Proper Environment:** Ensure any changes, including vendor package upgrades, are deployed to another environment first, where we can ensure they work as expected.
 - **Version Pinning:** Rather than relying on a package manager to decide what version of a dependency we'd like, pin packages, especially critical and non-dev packages to specific versions we know work. Bonus points if we ensure that our pipeline caches and stores these dependencies should a package be unavailable from a package manager in the future (where upon we can rollback to a package we know works, and we have a copy stored). 
-- 
+  
 #### Question 4
 
 I have had a go at adjusting the code provided, and have summarised the changes I would make.
