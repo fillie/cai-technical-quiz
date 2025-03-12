@@ -14,7 +14,7 @@ This took me around 3 hours.
 llbama";s:8:"currency";s:3:"USD";s:7:"country";s:13:"United
 States";s:4:"test";b:1;}`
 
-This is a **seralised PHP string**. When a PHP class is serialised. We can tell this is a PHP class or object additionally, from the `O` for object, as **`Foo` is the class name additionally**.
+This is a **seralised PHP string**. We can tell this is a PHP class or object additionally, from the `O` for object, as **`Foo` is the class name additionally**.
 
 Additionally we can identify the properties contained in the class.
 
