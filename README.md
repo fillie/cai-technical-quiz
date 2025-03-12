@@ -1,4 +1,4 @@
-# Cutlure.AI Technical Quiz
+# CAI Technical Quiz
 
 I did not use any AI tools during the course of this, bar validating my code on the last question.
 
